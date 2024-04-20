@@ -2,4 +2,4 @@
 
 kevin is g@e
 
-![][IMG_5630.jpg]
+![][/IMG_5630.jpg]
