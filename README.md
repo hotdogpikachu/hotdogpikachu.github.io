@@ -2,4 +2,4 @@
 
 kevin is g@e
 
-![][/IMG_5630.jpg]
+![bob l'eponge](bob_le_pong.png)
